@@ -1,0 +1,10 @@
+name: proto_lib
+description: Generated proto for Flutter
+version: 1.0.0
+
+environment:
+    sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+    protobuf: ^3.1.0
+    grpc: ^3.2.0
